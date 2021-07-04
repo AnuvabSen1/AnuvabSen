@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   </a>
 
 
-<h1 align="center"> 👋 Hi, I am ANUVAB SEN</h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/micepram/micepram/master/Hi.gif" width="43px">Hi, I am ANUVAB SEN</h1>
 <div align="center">
 <p><img src="https://komarev.com/ghpvc/?username=AnuvabSen1&label=Profile%20views&color=0e75b6&style=flat" alt="Anuvab Sen" /></p>
 <img src="https://img.shields.io/badge/%F0%9F%98%8A-Github-FF79CD" alt="Github account AnuvabSen1"/>
@@ -29,16 +29,18 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Linkedin-Anuvab%20Sen-5C33F6" alt="Linkedin Anuvab Sen"/>
 <a href="https://twitter.com/Caroline_TClara" target="blank"><img src="https://img.shields.io/badge/Follow-%40Anuvab__Sen-brightgreen" /></a>
 <a href="https://www.instagram.com/anuvabsen_/" target="blank"><img src="https://img.shields.io/badge/%F0%9F%98%9B-Instagram-FF7600" /></a>
+    <img align='right' src='https://user-images.githubusercontent.com/86666497/124365995-c6ce0780-dc69-11eb-83ec-566c73e836ae.gif'>
 <br>
 - 👀 I am primarily interested in Electronics and Open source Contributions<br>
 - 🌱 I’m currently learning Machine Learning and Analog Design<br>
 - 💞️ I’m looking forward to collaborate on GitHub with other open source enthusiasts .<br>
+    
 <br>
 
   <br>
 
-![tenor](https://user-images.githubusercontent.com/86666497/124365995-c6ce0780-dc69-11eb-83ec-566c73e836ae.gif)
-
+<!-- ![tenor](https://user-images.githubusercontent.com/86666497/124365995-c6ce0780-dc69-11eb-83ec-566c73e836ae.gif)
+ -->
 ### Languages 
 
 [<img align="centre" alt="Git" width="30px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/git.svg" />](https://git-scm.com/)
