@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <p align="center">
     <a href="https://github.com/AnuvabSen1?tab=repositories">
 <!--     <h1 src="images/logo.png" alt="Logo" width="80" height="80" align = "center">😎</h1> -->
-        <img src="https://media.giphy.com/media/l0MYEpMgixXtNRgrK/giphy.gif" alt="Logo" width="70" height="70" align = "center">
+        <img src="https://media.tenor.com/images/3b0ebaea968734fc45fec9d95b8b85f9/tenor.gif" alt="Logo" width="80" height="80" align = "center">
         
   </a>
 
