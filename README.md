@@ -31,6 +31,9 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/anuvabsen_/" target="blank"><img src="https://img.shields.io/badge/%F0%9F%98%9B-Instagram-FF7600" /></a>
     <img align='right' src='https://user-images.githubusercontent.com/86666497/124365995-c6ce0780-dc69-11eb-83ec-566c73e836ae.gif'>
 <br>
+    
+## About me :
+    
 - 👀 I am primarily interested in Electronics and Open source Contributions<br>
 - 🌱 I’m currently learning Machine Learning and Analog Design<br>
 - 💞️ I’m looking forward to collaborate on GitHub with other open source enthusiasts .<br>
