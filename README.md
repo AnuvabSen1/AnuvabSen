@@ -72,6 +72,15 @@ Here are some ideas to get you started:
   <img src="https://github.com/AnuvabSen/AnuvabSen/blob/master/images/gladiator.jpg" width="275" height ="400"/>
  
    </p>
+   
+
+
+<hr>
+
+|<img src="https://github-readme-stats.vercel.app/api?username=AnuvabSen&show_icons=true&theme=radical&text_color=fff&title_color=F58B02&icon_color=F58B02"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=AnuvabSen&theme=dark&hide_border=true"/>|
+|---|---
+<img src="https://activity-graph.herokuapp.com/graph?username=AnuvabSen&theme=github" />
+     <hr>
     
 ### Contacts
     
@@ -83,11 +92,4 @@ Feel free to contact me **sen.anuvab@gmail.com**<br>
 
 <br>
 
-
-
-<hr>
-
-|<img src="https://github-readme-stats.vercel.app/api?username=AnuvabSen&show_icons=true&theme=radical&text_color=fff&title_color=F58B02&icon_color=F58B02"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=AnuvabSen&theme=dark&hide_border=true"/>|
-|---|---
-<img src="https://activity-graph.herokuapp.com/graph?username=AnuvabSen&theme=github" />
 
