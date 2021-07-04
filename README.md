@@ -37,7 +37,7 @@ Here are some ideas to get you started:
     <img align='right' src='https://user-images.githubusercontent.com/86666497/124365995-c6ce0780-dc69-11eb-83ec-566c73e836ae.gif'>
 <br>
     
-## About me ✌🏻 :
+## About me 👨🏻‍💻 
     
 - 👀 I am primarily interested in Electronics and Open source Contributions<br>
 - 🌱 I’m currently learning Machine Learning and Analog Design<br>
