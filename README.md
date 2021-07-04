@@ -19,8 +19,7 @@ Here are some ideas to get you started:
     <a href="https://github.com/AnuvabSen1?tab=repositories">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
-    
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AnuvabSen&label=Profile%20views&color=0e75b6&style=flat" alt="AnuvabSen" /> </p>
+
 
 <h1 align="center"> 👋 Hi, I am ANUVAB SEN</h1>
 <div align="center">
