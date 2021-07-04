@@ -15,9 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
 <p align="center">
     <a href="https://github.com/AnuvabSen1?tab=repositories">
-    <h1 src="images/logo.png" alt="Logo" width="80" height="80" align = "center">😎</h1>
+<!--     <h1 src="images/logo.png" alt="Logo" width="80" height="80" align = "center">😎</h1> -->
+        <img src="https://media.giphy.com/media/l0MYEpMgixXtNRgrK/giphy.gif" alt="Logo" width="70" height="70" align = "center">
+        
   </a>
 
 
