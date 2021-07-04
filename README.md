@@ -59,7 +59,7 @@ Feel free to contact me **sen.anuvab@gmail.com**<br>
 <br>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnuvabSen&show_icons=true&locale=en&layout=compact" alt="AnuvabSen" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnuvabSen&show_icons=true&locale=en&layout=compact" alt="AnuvabSen" /></p>
 
 <br>
 
