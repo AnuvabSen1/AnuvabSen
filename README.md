@@ -63,14 +63,15 @@ Here are some ideas to get you started:
 [<img align="centre" alt="PYCHARM" width="30px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/pycharm.svg" />](https://www.jetbrains.com/pycharm/)<br>
   
     
-    🎥 Movies I have watched recently :
+    🎥 Few all time favourite Movies :
 ---
 
 <p float="left">
-  <img src="https://github.com/AnuvabSen/AnuvabSen/images/baby.jpg" width="275" height ="400"/>
-  <img src="https://github.com/AnuvabSen/AnuvabSen/images/baby.jpg" width="275" height ="400"/>
-  <img src="https://github.com/AnuvabSen/AnuvabSen/images/baby.jpg" width="275" height ="400"/>
-    </p>
+  <img src="https://github.com/AnuvabSen/AnuvabSen/tree/master/images/baby.jpg" width="275" height ="400"/>
+     <img src="https://github.com/AnuvabSen/AnuvabSen/tree/master/images/titanic.jpg" width="275" height ="400"/>
+  <img src="https://github.com/AnuvabSen/AnuvabSen/tree/master/images/gladiator.jpg" width="275" height ="400"/>
+ 
+   </p>
     
 ### Contacts
     
