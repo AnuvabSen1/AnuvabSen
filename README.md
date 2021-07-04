@@ -64,12 +64,10 @@ Feel free to contact me **sen.anuvab@gmail.com**<br>
 <br>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnuvabSen&show_icons=true&locale=en&layout=compact" alt="AnuvabSen" /></p>
 
-<br>
+<hr>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AnuvabSen&show_icons=true&locale=en" alt="AnuvabSen" /> </p>
-    <br>
-    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AnuvabSen&" alt="AnuvabSen" /></p>
-
-
+|<img src="https://github-readme-stats.vercel.app/api?username=AnuvabSen&show_icons=true&theme=radical&text_color=fff&title_color=F58B02&icon_color=F58B02"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=AnuvabSen&theme=dark&hide_border=true"/>|
+|---|---|
+<!-- <img src="https://activity-graph.herokuapp.com/graph?username=AnuvabSen&theme=github" />
+ -->
