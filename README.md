@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <p align="center">
     <a href="https://github.com/AnuvabSen1?tab=repositories">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <h1 src="images/logo.png" alt="Logo" width="80" height="80" align = "center">😎</h1>
   </a>
 
 
