@@ -69,5 +69,5 @@ Feel free to contact me **sen.anuvab@gmail.com**<br>
 
 |<img src="https://github-readme-stats.vercel.app/api?username=AnuvabSen&show_icons=true&theme=radical&text_color=fff&title_color=F58B02&icon_color=F58B02"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=AnuvabSen&theme=dark&hide_border=true"/>|
 |---|---|
-<!-- <img src="https://activity-graph.herokuapp.com/graph?username=AnuvabSen&theme=github" />
- -->
+<img src="https://activity-graph.herokuapp.com/graph?username=AnuvabSen&theme=github" />
+
