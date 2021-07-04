@@ -67,9 +67,9 @@ Here are some ideas to get you started:
 ---
 
 <p float="left">
-  <img src="https://github.com/AnuvabSen/AnuvabSen/tree/master/images/baby.jpg" width="275" height ="400"/>
-     <img src="https://github.com/AnuvabSen/AnuvabSen/tree/master/images/titanic.jpg" width="275" height ="400"/>
-  <img src="https://github.com/AnuvabSen/AnuvabSen/tree/master/images/gladiator.jpg" width="275" height ="400"/>
+  <img src="https://github.com/AnuvabSen/AnuvabSen/blob/master/images/baby.jpg" width="275" height ="400"/>
+     <img src="https://github.com/AnuvabSen/AnuvabSen/blob/master/images/titanic.jpg" width="275" height ="400"/>
+  <img src="https://github.com/AnuvabSen/AnuvabSen/blob/master/images/gladiator.jpg" width="275" height ="400"/>
  
    </p>
     
