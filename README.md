@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 
 
-<h1 align="center"><img src="https://raw.githubusercontent.com/micepram/micepram/master/Hi.gif" width="43px">Hi, I am  <a href="https://anuvabsen.github.io/Portfolio-Anuvab-Sen-Code-IIEST/">ANUVAB SEN
+<h1 align="center"><img src="https://raw.githubusercontent.com/micepram/micepram/master/Hi.gif" align="center" width="43px">Hi, I am  <a href="https://anuvabsen.github.io/Portfolio-Anuvab-Sen-Code-IIEST/">ANUVAB SEN
 
        
   </a></h1>
